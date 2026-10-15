@@ -1,0 +1,19 @@
+# Environment & API credentials
+.env
+.streamlit/secrets.toml
+
+# Python virtual environments & bytecode
+.venv/
+.venv-1/
+venv/
+ENV/
+/env
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE & OS cache
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

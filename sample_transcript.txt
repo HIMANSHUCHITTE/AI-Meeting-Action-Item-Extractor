@@ -1,0 +1,8 @@
+Meeting date: October 14, 2026
+
+Priya: We need to finish the dashboard design by October 18.
+Rahul: I will complete the API integration by October 20.
+Priya: Rahul, please share the integration progress with the team tomorrow.
+Amit: I will prepare the testing checklist by October 19.
+Priya: Someone needs to arrange the next client review, but we haven't assigned an owner yet.
+Rahul: The login page is already completed.
